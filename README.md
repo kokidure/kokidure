@@ -1,4 +1,29 @@
-<h1 align="center">Koki Duré</h1>
+# 👋 Hi, I'm Koki Duré
+
+I'm a software engineer from Paraguay 🇵🇾 with 14+ years of experience working remotely for U.S.-based companies.
+
+🔭 Currently, I work at Redfin (real estate tech, USA)  
+🌎 Founder of DevBridge LATAM – a mentorship program helping LATAM developers land remote jobs in the U.S.  
+💬 I love talking about Java, JavaScript, TypeScript, backend systems, and clean code.  
+🎯 Focused on building scalable web applications, mentoring devs, and growing communities.  
+🧠 Lifelong learner. Passionate about sharing knowledge and creating content in English and Spanish.
+
+---
+
+## 🚀 Tech Stack
+
+**Languages:** Java, JavaScript, TypeScript, SQL  
+**Frameworks:** Spring Boot, Node.js, Express, React  
+**Tools:** Git, GitHub, Docker, PostgreSQL, AWS, VSCode  
+**Currently exploring:** Next.js, GraphQL, AI tools
+
+---
+
+## 📫 Let's connect!
+
+- [LinkedIn](https://www.linkedin.com/in/kokidure)  
+- [Twitter / X](https://twitter.com/kokidure)  
+- Email: kokidure@gmail.com
 
 ###
 
