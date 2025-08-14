@@ -23,7 +23,7 @@ I'm a software engineer from Paraguay 🇵🇾 with 14+ years of experience work
 
 - [LinkedIn](https://www.linkedin.com/in/kokidure)  
 - [Twitter / X](https://twitter.com/kokidure)  
-- Email: kokidure@gmail.com
+- Email: xkokidurex@gmail.com
 
 ###
 
