@@ -1,30 +1,62 @@
-# 👋 Hi, I'm Koki Duré
+# Hi there! I'm Koki Duré 👋
 
-I'm a software engineer from Paraguay 🇵🇾 with 14+ years of experience working remotely for U.S.-based companies.
+I'm a Senior Software Engineer from Paraguay with 14+ years of experience building software for U.S. companies.
 
-🔭 Currently, I work at Redfin (real estate tech, USA)  
-🌎 Founder of DevBridge LATAM – a mentorship program helping LATAM developers land remote jobs in the U.S.  
-💬 I love talking about Java, JavaScript, TypeScript, backend systems, and clean code.  
-🎯 Focused on building scalable web applications, mentoring devs, and growing communities.  
-🧠 Lifelong learner. Passionate about sharing knowledge and creating content in English and Spanish.
+I enjoy designing scalable backend systems, building AI-powered applications, and helping developers grow their careers.
 
----
+Currently I'm focused on:
 
-## 🚀 Tech Stack
-
-**Languages:** Java, JavaScript, TypeScript, SQL  
-**Frameworks:** Spring Boot, Node.js, Express, React  
-**Tools:** Git, GitHub, Docker, PostgreSQL, AWS, VSCode  
-**Currently exploring:** Next.js, GraphQL, AI tools
+- Building AI-first software products
+- Scalable backend architecture
+- Java & TypeScript ecosystems
+- System Design & Distributed Systems
+- Developer Education
+- AI-assisted Software Engineering
 
 ---
 
-## 📫 Let's connect!
+## Tech Stack
 
-- [LinkedIn](https://www.linkedin.com/in/kokidure)  
-- [Twitter / X](https://twitter.com/kokidure)  
+### Languages
+
+Java • TypeScript • JavaScript • SQL
+
+### Backend
+
+Spring Boot • Node.js • Express • REST APIs • PostgreSQL
+
+### Frontend
+
+React • Next.js • HTML • CSS
+
+### DevOps & Cloud
+
+Docker • AWS • GitHub Actions • Git • Linux
+
+### AI
+
+OpenAI • Claude • Gemini • Cursor • Codex • MCP • AI Developer Workflows
+
+---
+
+## What I'm building
+
+- AI-powered software projects
+- Open source tools
+- Educational content
+- CleanCod3 — an AI-first Software Engineering school for LATAM developers
+
+---
+
+## Connect with me
+
+- LinkedIn: https://linkedin.com/in/kokidure
+- X: https://x.com/kokidure
 - Email: xkokidurex@gmail.com
 
+---
+
+> Building software. Sharing knowledge. Helping LATAM developers compete globally.
 ###
 
 <div align="center">
