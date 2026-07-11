@@ -1,17 +1,21 @@
 # Hi there! I'm Koki 👋
 
-I'm a Senior Software Engineer from Paraguay with 14+ years of experience building software for U.S. companies.
+I'm a software engineer from Paraguay who's been building software for companies around the world for many years.
 
-I enjoy designing scalable backend systems, building AI-powered applications, and helping developers grow their careers.
+I enjoy designing scalable systems, building AI-native applications, and sharing what I learn with developers around the world.
 
-Currently I'm focused on:
+Beyond writing code, I'm passionate about building products, mentoring developers, creating educational content, and growing communities that help engineers succeed globally.
 
-- Building AI-first software products
+Outside of coding, you'll probably find me riding my motorcycle, experimenting with AI, or creating content for developers.
+
+## What I'm focused on
+
+- Building AI-native software products
 - Scalable backend architecture
+- Distributed Systems & System Design
 - Java & TypeScript ecosystems
-- System Design & Distributed Systems
-- Developer Education
 - AI-assisted Software Engineering
+- Developer Education & Community Building
 
 ---
 
@@ -19,53 +23,41 @@ Currently I'm focused on:
 
 ### Languages
 
-Java • TypeScript • JavaScript • SQL
+Java • Kotlin • TypeScript • JavaScript • Ruby • SQL
 
 ### Backend
 
-Spring Boot • Node.js • Express • REST APIs • PostgreSQL
+Spring Boot • Micronaut • Ruby on Rails • Node.js • Express • REST APIs • GraphQL • PostgreSQL
 
 ### Frontend
 
 React • Next.js • HTML • CSS
 
-### DevOps & Cloud
+### Cloud & DevOps
 
-Docker • AWS • GitHub Actions • Git • Linux
+Docker • AWS • GCP • GitHub Actions • Git • Unix
 
 ### AI
 
-OpenAI • Claude • Gemini • Cursor • Codex • MCP • AI Developer Workflows
+OpenAI • Claude • MCP • RAG • AI Agents • AI Developer Workflows
 
 ---
 
-## What I'm building
+## Currently Building
 
-- AI-powered software projects
-- Open source tools
-- Educational content
-- CleanCod3 — an AI-first Software Engineering school for LATAM developers
-
----
-
-## Connect with me
-
-- LinkedIn: https://linkedin.com/in/kokidure
-- X: https://x.com/kokidure
-- Email: xkokidurex@gmail.com
+- 🚀 **CleanCod3** — An AI-first Software Engineering school for LATAM developers
+- 🤖 AI-native software products and developer tools
+- 🌍 Open source projects
+- 📚 Educational content for software engineers
+- 🤝 A community helping LATAM developers build world-class careers
 
 ---
 
 > Building software. Sharing knowledge. Helping LATAM developers compete globally.
-###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kokidure&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kokidure&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=kokidure&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kokidure&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
 </div>
 
-###
-
 <img src="https://raw.githubusercontent.com/kokidure/kokidure/output/snake.svg" alt="Snake animation" />
-
-###
