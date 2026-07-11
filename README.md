@@ -1,4 +1,4 @@
-# Hi there! I'm Koki Duré 👋
+# Hi there! I'm Koki 👋
 
 I'm a Senior Software Engineer from Paraguay with 14+ years of experience building software for U.S. companies.
 
